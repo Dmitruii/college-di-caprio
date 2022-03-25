@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69265bfe-ac67-4406-9b87-98826f6f92c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../reactLogin/client/src/assets/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactLogin/client/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleRegistration/authRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleRegistration/middleware/roleMiddleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node.v2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node.v2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node.v2/lessons/events.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node.v2/lessons/events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ownImplementationExpress/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ownImplementationExpress/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ownImplementationExpress/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ownImplementationExpress/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ownImplementationExpress/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ownImplementationExpress/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ownImplementationExpress/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ownImplementationExpress/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ownImplementationExpress/src/user-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ownImplementationExpress/src/user-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-demo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/components/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/components/Console.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/components/Flex.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/components/Line.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/components/Title.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/src/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styled-component — копия/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Новая папка/response-header/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Новая папка/response-header/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Новая папка/response-header/js/scripts.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26pKOSCSZY191wX0EW9D8OdwZ3t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Завдання_27_2\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69265bfe-ac67-4406-9b87-98826f6f92c0" name="Changes" comment="" />
+      <created>1648115055168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648115055168</updated>
+      <workItem from="1648115056422" duration="19081000" />
+      <workItem from="1648217592013" duration="1608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
